@@ -1,0 +1,8 @@
+{
+  "name": "Esparta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vitorcasteluci/Esparta.git",
+  "author": "<vitor.casteluci@gmail.com>",
+  "license": "MIT"
+}
